@@ -1,0 +1,34 @@
+{
+  "name": "frankenword",
+  "version": "0.0.1",
+  "description": "Find fankenwords in your writing",
+  "main": "frankenword.js",
+  "homepage": "https://github.com/shakna-israel/frankenword",
+  "author": "James Milne",
+  "bugs": {
+    "url": "https://github.com/shakna-israel/frankenword/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shakna-israel/frankenword.git"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine-node test"
+  },
+  "keywords": [
+    "english",
+    "writing",
+    "prose",
+    "words",
+    "frankenword",
+    "mutation",
+    "readability"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine-node": "~2.0.0"
+  }
+}
