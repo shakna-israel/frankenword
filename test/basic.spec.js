@@ -12,7 +12,7 @@ describe('frankenword', function () {
     });
 
     it('will not escape notice', function () {
-      expect(results).toEqual([{ index : 22, offset : 13 }]);
+      expect(results).toEqual([{ index : 9, offset : 9 },{ index: 24, offset: 11 }]);
     });
   })
 
