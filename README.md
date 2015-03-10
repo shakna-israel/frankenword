@@ -1,3 +1,6 @@
+![David DM](https://david-dm.org/shakna-israel/frankenword.svg)
+[![npm version](https://badge.fury.io/js/frankenword.svg)](http://badge.fury.io/js/frankenword)
+
 # Frankenword
 
 npm module to check for frankenwords in your writing.
