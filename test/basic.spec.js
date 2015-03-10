@@ -1,8 +1,8 @@
-var fankenword = require('../frankenword');
+var frankenword = require('../frankenword');
 var frankenwordInSentence = 'The word backronym is a frankenword.';
 var goodSentence = 'The good dog jumps over the bad cat.';
 
-describe('no-cliches', function () {
+describe('frankenword', function () {
 
   describe('a sentence containing a frankenword', function() {
     var results = null;
