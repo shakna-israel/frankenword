@@ -1,6 +1,6 @@
 {
   "name": "frankenword",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Find fankenwords in your writing",
   "main": "frankenword.js",
   "homepage": "https://github.com/shakna-israel/frankenword",
