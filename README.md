@@ -1,4 +1,5 @@
-![David DM](https://david-dm.org/shakna-israel/frankenword.svg)
+[![Build Status](https://travis-ci.org/shakna-israel/frankenword.svg)](https://travis-ci.org/shakna-israel/frankenword)
+![Dependencies Status](https://david-dm.org/shakna-israel/frankenword.svg)
 [![npm version](https://badge.fury.io/js/frankenword.svg)](http://badge.fury.io/js/frankenword)
 
 # Frankenword
